@@ -22,7 +22,7 @@
           </div>
       </div>
         <div class="col-md-4 col-md-pull-8">
-          <div class="left-footer footer-column">Adresse : 1 passage du Surmelin, 75020 Paris.</div>
+          <div class="left-footer footer-column">Adresse : 10 passage des Vents, 75020 Paris.</div>
         </div>
     </div>
 </footer>
