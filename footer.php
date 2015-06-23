@@ -2,7 +2,7 @@
     <div class="row" id="footer">
 	<div class="col-md-4 col-md-push-8 hidden-xs">
         <div class="footer-column">
-          <ul class="list-inline">
+          <ul class="list-inline text-right">
             <li class="footerLink"><a target="_blank" href="https://www.facebook.com/Shoette"><i class="fa fa-pinterest-p"></i></a></li>
             <li class="footerLink"><a target="_blank" href="https://www.facebook.com/Shoette"><i class="fa fa-google-plus"></i></a></li>
             <li class="footerLink"><a target="_blank" href="https://www.facebook.com/Shoette"><i class="fa fa-facebook"></i></a></li>
